@@ -1,5 +1,5 @@
 {
-    "name": "myfatoorah/omnipay",
+    "name": "raze2/omnipay",
     "description": "MyFatoorah driver for the Omnipay payment processing library",
     "type": "library",
     "require": {
